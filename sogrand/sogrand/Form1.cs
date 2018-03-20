@@ -13,6 +13,7 @@ namespace sogrand
 {
     public partial class Form1 : Form
     {
+    // heyo here's a change for ya
         public Form1()
         {
             InitializeComponent();
