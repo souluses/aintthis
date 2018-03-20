@@ -1,0 +1,10 @@
+D:\програпро\aintthis\sogrand\sogrand\bin\Debug\sogrand.exe.config
+D:\програпро\aintthis\sogrand\sogrand\bin\Debug\sogrand.exe
+D:\програпро\aintthis\sogrand\sogrand\bin\Debug\sogrand.pdb
+D:\програпро\aintthis\sogrand\sogrand\obj\Debug\sogrand.csprojResolveAssemblyReference.cache
+D:\програпро\aintthis\sogrand\sogrand\obj\Debug\sogrand.Form1.resources
+D:\програпро\aintthis\sogrand\sogrand\obj\Debug\sogrand.Properties.Resources.resources
+D:\програпро\aintthis\sogrand\sogrand\obj\Debug\sogrand.csproj.GenerateResource.Cache
+D:\програпро\aintthis\sogrand\sogrand\obj\Debug\sogrand.csproj.CoreCompileInputs.cache
+D:\програпро\aintthis\sogrand\sogrand\obj\Debug\sogrand.exe
+D:\програпро\aintthis\sogrand\sogrand\obj\Debug\sogrand.pdb
